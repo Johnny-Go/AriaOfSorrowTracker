@@ -1,0 +1,13 @@
+﻿{
+  "name": "Castlevania: Aria of Sorrow Randomizer",
+  "game_name": "Castlevania: Aria of Sorrow Randomizer",
+  "platform": "gba",
+  "package_version": "1.0.0",
+  "package_uid": "aos_rando_johnny",
+  "author": "JohnnyGo",
+  "variants": {
+    "standard": {
+      "display_name": "Item Tracker"
+    }
+  }
+}

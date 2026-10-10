@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Flying Armor",
+    "type": "toggle",
+    "img": "images/1_flying-armor.png",
+    "codes": "flyingarmor"
+  },
+  {
+    "name": "Malphas",
+    "type": "toggle",
+    "img": "images/2_malphas.png",
+    "codes": "malphas"
+  },
+  {
+    "name": "Divekick",
+    "type": "toggle",
+    "img": "images/3_divekick.png",
+    "codes": "divekick"
+  },
+  {
+    "name": "Slide",
+    "type": "toggle",
+    "img": "images/4_slide.png",
+    "codes": "slide"
+  },
+  {
+    "name": "Bat",
+    "type": "toggle",
+    "img": "images/5_bat.png",
+    "codes": "bat"
+  },
+  {
+    "name": "Hippogryph",
+    "type": "toggle",
+    "img": "images/6_hippogryph.png",
+    "codes": "hippogryph"
+  },
+  {
+    "name": "Undine",
+    "type": "toggle",
+    "img": "images/7_undine.png",
+    "codes": "undine"
+  },
+  {
+    "name": "Manticore",
+    "type": "toggle",
+    "img": "images/8_manticore.png",
+    "codes": "manticore"
+  },
+  {
+    "name": "Skula",
+    "type": "toggle",
+    "img": "images/9_skula.png",
+    "codes": "skula"
+  },
+  {
+    "name": "Galamoth",
+    "type": "toggle",
+    "img": "images/10_galamoth.png",
+    "codes": "galamoth"
+  },
+  {
+    "name": "Book 1",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/11_book-1.png",
+        "codes": "bookone"
+      },
+      {
+        "img": "images/11_book-1-found.png",
+        "disabled_img": "images/11_book-1.png",
+        "disabled_img_mods": "",
+        "codes": "bookone,bookonefound"
+      }
+    ]
+  },
+  {
+    "name": "Book 2",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/12_book-2.png",
+        "codes": "booktwo"
+      },
+      {
+        "img": "images/12_book-2-found.png",
+        "disabled_img": "images/12_book-2.png",
+        "disabled_img_mods": "",
+        "codes": "booktwo,booktwofound"
+      }
+    ]
+  },
+  {
+    "name": "Book 3",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "img": "images/13_book-3.png",
+        "codes": "bookthree"
+      },
+      {
+        "img": "images/13_book-3-found.png",
+        "disabled_img": "images/13_book-3.png",
+        "disabled_img_mods": "",
+        "codes": "bookthree,bookthreefound"
+      }
+    ]
+  },
+  {
+    "name": "Headhunter",
+    "type": "toggle",
+    "img": "images/14_headhunter.png",
+    "codes": "headhunter"
+  },
+  {
+    "name": "Skeleton Knight",
+    "type": "toggle",
+    "img": "images/15_skeleton-knight.png",
+    "codes": "skeletonknight"
+  },
+  {
+    "name": "Minotaur",
+    "type": "toggle",
+    "img": "images/16_minotaur.png",
+    "codes": "minotaur"
+  },
+  {
+    "name": "Lubicant",
+    "type": "toggle",
+    "img": "images/17_lubicant.png",
+    "codes": "lubicant"
+  },
+  {
+    "name": "Golem",
+    "type": "toggle",
+    "img": "images/18_golem.png",
+    "codes": "golem"
+  },
+  {
+    "name": "Triton",
+    "type": "toggle",
+    "img": "images/19_triton.png",
+    "codes": "triton"
+  },
+  {
+    "name": "Red Crow",
+    "type": "toggle",
+    "img": "images/20_red-crow.png",
+    "codes": "redcrow"
+  },
+  {
+    "name": "Lilith",
+    "type": "toggle",
+    "img": "images/21_lilith.png",
+    "codes": "lilith"
+  },
+  {
+    "name": "Bael",
+    "type": "toggle",
+    "img": "images/22_bael.png",
+    "codes": "bael"
+  },
+  {
+    "name": "Stolas",
+    "type": "toggle",
+    "img": "images/23_stolas.png",
+    "codes": "stolas"
+  }
+]

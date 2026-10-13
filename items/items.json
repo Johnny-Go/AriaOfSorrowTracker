@@ -42,10 +42,10 @@
     "codes": "undine"
   },
   {
-    "name": "Manticore",
+    "name": "Rush Soul",
     "type": "toggle",
-    "img": "images/8_manticore.png",
-    "codes": "manticore"
+    "img": "images/8_rush.png",
+    "codes": "rushsoul"
   },
   {
     "name": "Skula",
@@ -108,12 +108,6 @@
     ]
   },
   {
-    "name": "Headhunter",
-    "type": "toggle",
-    "img": "images/14_headhunter.png",
-    "codes": "headhunter"
-  },
-  {
     "name": "Skeleton Knight",
     "type": "toggle",
     "img": "images/15_skeleton-knight.png",
@@ -166,5 +160,53 @@
     "type": "toggle",
     "img": "images/23_stolas.png",
     "codes": "stolas"
+  },
+  {
+    "name": "Creaking Skull",
+    "type": "toggle",
+    "img": "images/24_Creaking-Skull.png",
+    "codes": "creakingskull"
+  },
+  {
+    "name": "Manticore",
+    "type": "toggle",
+    "img": "images/25_Manticore.png",
+    "codes": "manticore"
+  },
+  {
+    "name": "Great Armor",
+    "type": "toggle",
+    "img": "images/26_Great-Armor.png",
+    "codes": "greatarmor"
+  },
+  {
+    "name": "Big Golem",
+    "type": "toggle",
+    "img": "images/27_Big-Golem.png",
+    "codes": "biggolem"
+  },
+  {
+    "name": "Headhunter",
+    "type": "toggle",
+    "img": "images/28-Headhunter.png",
+    "codes": "headhunter"
+  },
+  {
+    "name": "Death",
+    "type": "toggle",
+    "img": "images/29_Death.png",
+    "codes": "death"
+  },
+  {
+    "name": "Legion",
+    "type": "toggle",
+    "img": "images/30_Legion.png",
+    "codes": "legion"
+  },
+  {
+    "name": "Balore",
+    "type": "toggle",
+    "img": "images/31_Balore.png",
+    "codes": "balore"
   }
 ]

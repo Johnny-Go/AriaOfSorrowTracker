@@ -11,11 +11,12 @@
         "rows": [
           ["flyingarmor", "malphas", "divekick"],
           ["slide", "bat", "hippogryph"],
-          ["undine", "manticore", "skula", "galamoth"],
+          ["undine", "rushsoul", "skula", "galamoth"],
           ["bookone", "booktwo", "bookthree"],
-          ["headhunter", "skeletonknight", "minotaur"],
-          ["lubicant", "golem", "triton"],
-          ["redcrow", "lilith", "bael", "stolas"]
+          ["lubicant", "skeletonknight", "minotaur", "golem", "triton"],
+          ["redcrow", "lilith", "bael", "stolas"],
+          ["creakingskull", "manticore", "greatarmor", "biggolem"],
+          ["headhunter", "death", "legion", "balore"]
         ]
       }
     ]
